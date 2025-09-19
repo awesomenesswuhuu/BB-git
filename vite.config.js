@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: './', // works on GitHub Pages under /<repo>/ path
+  base: '/BB-git/', // works on GitHub Pages under /<repo>/ path
 })
